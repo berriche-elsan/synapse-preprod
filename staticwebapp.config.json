@@ -1,15 +1,1 @@
-{
-  "routes": [
-    {
-      "route": "/",
-      "methods": [
-        "get"
-      ],
-      "redirect": "https://synapse.elsan.care/",
-      "statusCode": 302,
-      "allowedRoles": [
-        "anonymous"
-      ]
-    }
-  ]
-}
+{}
